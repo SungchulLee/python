@@ -1,0 +1,1 @@
+Write a python code that go through each folder in the first layer of this working directory and check whether there is a file called README.md. If README.md does not exist, make one empty README.md file for that folder.
